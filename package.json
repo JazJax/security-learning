@@ -1,0 +1,16 @@
+{
+  "name": "js-x-ray_testing",
+  "version": "0.1.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "JazJax",
+  "license": "ISC",
+  "dependencies": {
+    "@nodesecure/js-x-ray": "^6.1.1"
+  }
+}
